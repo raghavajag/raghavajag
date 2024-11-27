@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋 I'm Raghava Jagarwal
+🚀 Backend Developer | Go Enthusiast | Distributed Systems Specialist
 
-<!--
-**raghavajag/raghavajag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I specialize in building scalable backend systems using Go and microservices architecture. My projects include:
+- A Redis Clone supporting 1,000+ concurrent connections.
+- A decentralized blockchain network with secure transaction processing.
+- A microservices framework leveraging gRPC and RabbitMQ.
 
-Here are some ideas to get you started:
+## Featured Projects
+1. [Redis Clone](https://github.com/raghavajag/redis): In-memory key-value database with data persistence.
+2. [Decentralized Currency Simulator](https://github.com/raghavajag/blockchain-go): Blockchain network built from scratch.
+3. [Microservices Framework](https://github.com/raghavajag/go-micro): Scalable framework using gRPC and RabbitMQ.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let's Connect
+[LinkedIn](https://www.linkedin.com/in/raghavajag/) | [Resume](https://drive.google.com/file/d/1hh1LrVTGVbQrAT71ZmAx0V5UqNtbRzVV)
