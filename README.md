@@ -8,7 +8,7 @@ I specialize in building scalable backend systems using Go and microservices arc
 - A microservices framework leveraging gRPC and RabbitMQ.
 
 ## Featured Projects
-1. [Redis Clone](https://github.com/raghavajag/redis): In-memory key-value database with data persistence.
+1. [Redis Clone](https://github.com/raghavajag/redis): In-memory key-value database with replication, data persistence support.
 2. [Decentralized Currency Simulator](https://github.com/raghavajag/blockchain-go): Blockchain network built from scratch.
 3. [Microservices Framework](https://github.com/raghavajag/go-micro): Scalable framework using gRPC and RabbitMQ.
 
