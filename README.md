@@ -9,4 +9,4 @@ I specialize in building scalable systems using Go. My projects include:
 2. [Decentralized Currency Simulator](https://github.com/raghavajag/blockchain-go): Blockchain network built from scratch.
 
 ## Let's Connect
-[LinkedIn](https://www.linkedin.com/in/raghavajag/) | [Resume](https://drive.google.com/file/d/1hh1LrVTGVbQrAT71ZmAx0V5UqNtbRzVV)
+[LinkedIn](https://www.linkedin.com/in/raghavajag/)
